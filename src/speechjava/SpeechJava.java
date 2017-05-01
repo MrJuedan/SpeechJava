@@ -16,8 +16,10 @@ public class SpeechJava {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
         Fenetre fen = new Fenetre();
         fen.setVisible(true);
+        fet.setSize(new Dimention(600,600));
     }
     
 }
